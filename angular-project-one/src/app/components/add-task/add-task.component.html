@@ -1,0 +1,32 @@
+<form class="add-form" (ngSubmit)="onSubmit()">
+    <div class="form-control">
+        <label for="text">Project</label>
+        <input 
+        type="text" 
+        name="text" 
+        [(ngModel)]="text"
+        id="text" 
+        placeholder="Add Project"/>
+    </div>
+    <div class="form-control">
+        <label for="text">Start Date</label>
+        <input 
+        type="text" 
+        name="start" 
+        [(ngModel)]="start"
+        id="start" 
+        placeholder="Add Project Start Date"/>
+    </div>
+    <div class="form-control form-control-check">
+        <label for="text">Completed</label>
+        <input 
+        type="checkbox" 
+        name="finished" 
+        [(ngModel)]="finsihed"
+        id="finsihed" />
+    </div>
+    <input 
+    type="submit" 
+    value="Save Project" 
+    class="btn btn-block" />
+</form>
