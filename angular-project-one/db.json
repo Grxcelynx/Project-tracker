@@ -17,12 +17,6 @@
       "text": "Flower Piece",
       "start": "Search marigolds for painting inspo",
       "finished": true
-    },
-    {
-      "text": "Cactus Painting",
-      "start": "Tues. Oct. 26th",
-      "finished": false,
-      "id": 5
     }
   ]
 }
