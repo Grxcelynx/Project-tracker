@@ -19,7 +19,7 @@ After completing this tracker, I noticed that I cannot delete a task after addin
 
 
 ## <a name="app-flow"></a>App Flow
-See the flow of the P.A.I.N.T. app: 
+### See the flow of the P.A.I.N.T. app: 
 
 Tab functionality:
 # <img src= "https://github.com/Grxcelynx/Project-tracker/blob/main/angular-project-one/ReadMeGifs/tab-open-close.GIF" alt= "tab">
