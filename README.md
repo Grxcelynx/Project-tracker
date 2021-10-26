@@ -32,7 +32,7 @@ Alert if no title added:
 # <img src= "https://github.com/Grxcelynx/Project-tracker/blob/main/angular-project-one/ReadMeGifs/error.GIF" alt= "error">
 # <img src= "https://github.com/Grxcelynx/Project-tracker/blob/main/angular-project-one/ReadMeGifs/adding-title.GIF" alt= "adding-title">
 
-Deleting unwanted or comlpeted tasks:
+Deleting unwanted or completed tasks:
 # <img src= "https://github.com/Grxcelynx/Project-tracker/blob/main/angular-project-one/ReadMeGifs/delete.GIF" alt= "delete">
 
 Small about page:
