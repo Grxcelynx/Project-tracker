@@ -8,26 +8,20 @@
     },
     {
       "id": 2,
-      "text": "Scream Painting",
-      "start": "Fri. Sept. 20th",
-      "finished": true
+      "text": "The Color Purple Essay",
+      "start": "Finish conclusion by Monday",
+      "finished": false
     },
     {
       "id": 3,
-      "text": "Flower Painting",
-      "start": "Wed. Oct. 4th",
+      "text": "Flower Piece",
+      "start": "Search marigolds for painting inspo",
       "finished": true
     },
     {
       "id": 4,
-      "text": "Sky Painting",
-      "start": "Thurs. Jan. 3rd",
-      "finished": true
-    },
-    {
-      "id": 5,
-      "text": "Fish Painting",
-      "start": "Thurs. Aug. 3rd",
+      "text": "Oil paints",
+      "start": "running low on Titanium White",
       "finished": false
     }
   ]

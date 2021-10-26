@@ -9,7 +9,8 @@ import {Router} from '@angular/router';
   styleUrls: ['./header.component.css']
 })
 export class HeaderComponent implements OnInit {
-  title: string = 'angular-project-one';
+  acronym: string = 'P.A.I.N.T.';
+  title: string = 'Projects. Assignments. Inspiration. Notes. Tracker.'
   showAddTask!: boolean;
   subscription!: Subscription;
 

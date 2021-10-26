@@ -1,21 +1,21 @@
 <form *ngIf="showAddTask" class="add-form" (ngSubmit)="onSubmit()">
     <div class="form-control">
-        <label for="text">Project</label>
+        <label for="text">Title</label>
         <input 
         type="text" 
         name="text" 
         [(ngModel)]="text"
         id="text" 
-        placeholder="Add Project"/>
+        placeholder="Add Your P.A.I.N.T. Title"/>
     </div>
     <div class="form-control">
-        <label for="text">Start Date</label>
+        <label for="text"> P.A.I.N.T. Info</label>
         <input 
         type="text" 
         name="start" 
         [(ngModel)]="start"
         id="start" 
-        placeholder="Add Project Start Date"/>
+        placeholder="Add a Start Date, Deadline, Notes, etc. "/>
     </div>
     <div class="form-control form-control-check">
         <label for="text">Completed</label>
@@ -27,6 +27,8 @@
     </div>
     <input 
     type="submit" 
-    value="Save Project" 
+    value="Save" 
     class="btn btn-block" />
+    <h5>*After saving, double click your P.A.I.N.T. when completed</h5>
+
 </form>
