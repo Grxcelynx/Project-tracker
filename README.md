@@ -36,7 +36,7 @@ Deleting unwanted or comlpeted tasks:
 # <img src= "https://github.com/Grxcelynx/Project-tracker/blob/main/angular-project-one/ReadMeGifs/delete.GIF" alt= "delete">
 
 Small about page:
-# <img src= "https://github.com/Grxcelynx/Project-tracker/blob/main/angular-project-one/ReadMeGifs/about.GIFF" alt= "about">
+# <img src= "https://github.com/Grxcelynx/Project-tracker/blob/main/angular-project-one/ReadMeGifs/about.GIF" alt= "about">
 
 
 
