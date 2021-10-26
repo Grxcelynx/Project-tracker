@@ -29,4 +29,10 @@ export class TasksComponent implements OnInit {
     task.finished = !task.finished;
     this.taskService.updateTaskFinished(task).subscribe();
   }
+
+  addTask(task: Task) {
+    this.taskService.addTask(task).subscribe((tasks) =>
+    (this.tasks.push(task)));
+
+  }
 }
