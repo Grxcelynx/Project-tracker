@@ -1,6 +1,7 @@
 # P.A.I.N.T.
 
-##About
+## About
+
 This small project was my first intro to using Angular. While developing a 2.0 of my main project from bootcamp, I wanted to pick up new skills and create smaller projects that will be used as features in my upcoming web app. As this is my first time using Angular, please leave any helpful suggestions or adjustments I can make to improve my skills in Angular. 
 
 
