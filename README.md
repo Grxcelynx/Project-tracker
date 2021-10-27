@@ -1,5 +1,5 @@
 # P.A.I.N.T.
-## Projects. Assignments. Inspiration. Notes. Tracker. 
+Projects. Assignments. Inspiration. Notes. Tracker. 
 
 ## About
 
