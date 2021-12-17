@@ -5,3 +5,5 @@ export interface Task {
     finished: boolean;
 
 }
+
+// ng serve - to run app 
